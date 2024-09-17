@@ -19,5 +19,3 @@ Meu nome é Arthur Nascimento, tenho 16 anos, atualmente aluno do curso **técni
 - [ ] IMPLANTAÇÃO DE SISTEMA WEB
 - [ ] PROJETO DE INOVAÇÃO: MINDSET EMPREENDEDOR E PROTOTIPAÇÃO
 - [ ] PROJETO DE INOVAÇÃO: TRABALHO DE CONCLUSÃO DO CURSO
-
-
